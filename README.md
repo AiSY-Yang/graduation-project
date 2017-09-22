@@ -1,3 +1,1 @@
-# graduation-project
-graduated
-毕业设计
+#毕业设计
